@@ -56,5 +56,7 @@ public class DownloadFileServlet extends HttpServlet {
          
         inStream.close();
         outStream.close();     
+
+-----
     }
 }
